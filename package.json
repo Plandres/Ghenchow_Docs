@@ -1,0 +1,16 @@
+{
+  "name": "ghenchow_docs",
+  "version": "1.0.0",
+  "description": "ghenchow_docs",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "Ghenchow Community",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.7",
+    "@vuepress/theme-default": "^2.0.0-rc.14",
+    "vuepress": "^2.0.0-rc.7"
+  }
+}
